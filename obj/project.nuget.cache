@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a7Zlkv9Mkt8V9kcMwALZmilLUaN/yfduDgNC/9PKVm5OwMVfIvWMOT9qopdJnbBIhGC0gbrZHKtOMFt97MGwsw==",
+  "success": true,
+  "projectFilePath": "/Users/aleksandrsedenko/Documents/A-Level/группа .NET online 5/Projects/Module02HW1/M02HW01/M02HW01.csproj",
+  "expectedPackageFiles": [
+    "/Users/aleksandrsedenko/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
